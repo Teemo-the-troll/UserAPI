@@ -1,6 +1,6 @@
 package cz.educanet.UserApi.Managers;
 
-import cz.educanet.UserApi.ObjectClasses.User;
+import cz.educanet.UserApi.Wrappers.Classes.User;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
@@ -10,12 +10,11 @@ import java.util.UUID;
 
 @ApplicationScoped
 public class AuthManager {
-    @Inject
-    UserManager manager;
 
+    @Inject
+    private UserManager manager;
 
     private final ArrayList<String> tokens = new ArrayList<String>();
-
 
     /**
      * @return all tokens

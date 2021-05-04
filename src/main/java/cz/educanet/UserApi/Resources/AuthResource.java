@@ -2,7 +2,7 @@ package cz.educanet.UserApi.Resources;
 
 
 import cz.educanet.UserApi.Managers.AuthManager;
-import cz.educanet.UserApi.ObjectClasses.User;
+import cz.educanet.UserApi.Wrappers.Classes.User;
 
 import javax.inject.Inject;
 import javax.ws.rs.*;
@@ -15,7 +15,7 @@ import java.util.Optional;
 public class AuthResource {
 
     @Inject
-    AuthManager manager;
+    private AuthManager manager;
 
     /**
      *

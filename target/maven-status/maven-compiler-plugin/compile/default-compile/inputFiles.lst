@@ -1,6 +1,8 @@
-C:\Users\Kiku\Downloads\deepnetts\deepnetts\Examples\UserAPI\src\main\java\cz\educanet\UserApi\ApiConf.java
-C:\Users\Kiku\Downloads\deepnetts\deepnetts\Examples\UserAPI\src\main\java\cz\educanet\UserApi\Managers\AuthManager.java
-C:\Users\Kiku\Downloads\deepnetts\deepnetts\Examples\UserAPI\src\main\java\cz\educanet\UserApi\ObjectClasses\User.java
-C:\Users\Kiku\Downloads\deepnetts\deepnetts\Examples\UserAPI\src\main\java\cz\educanet\UserApi\Resources\UserResource.java
-C:\Users\Kiku\Downloads\deepnetts\deepnetts\Examples\UserAPI\src\main\java\cz\educanet\UserApi\Resources\AuthResource.java
-C:\Users\Kiku\Downloads\deepnetts\deepnetts\Examples\UserAPI\src\main\java\cz\educanet\UserApi\Managers\UserManager.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\ApiConf.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Resources\AuthResource.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Wrappers\Classes\User.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Resources\UserResource.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Wrappers\Entities\UserEntity.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Managers\DatManager.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Managers\AuthManager.java
+C:\Users\mikul\IdeaProjects\UserAPI\src\main\java\cz\educanet\UserApi\Managers\UserManager.java

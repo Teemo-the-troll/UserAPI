@@ -1,6 +1,8 @@
 cz\educanet\UserApi\ApiConf.class
-cz\educanet\UserApi\Managers\AuthManager.class
 cz\educanet\UserApi\Resources\AuthResource.class
+cz\educanet\UserApi\Wrappers\Entities\UserEntity.class
+cz\educanet\UserApi\Managers\AuthManager.class
+cz\educanet\UserApi\Managers\DatManager.class
 cz\educanet\UserApi\Managers\UserManager.class
-cz\educanet\UserApi\ObjectClasses\User.class
 cz\educanet\UserApi\Resources\UserResource.class
+cz\educanet\UserApi\Wrappers\Classes\User.class
